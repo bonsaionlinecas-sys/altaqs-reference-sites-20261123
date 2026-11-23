@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altaqs.onrender.com/sitemap.xml

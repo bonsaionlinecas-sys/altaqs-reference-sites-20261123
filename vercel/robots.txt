@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altaqs.vercel.app/sitemap.xml
